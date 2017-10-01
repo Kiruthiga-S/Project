@@ -41,4 +41,4 @@ kiruthiga/ProjectDocker:
     - PORT: 3000
     
   Exec:
-    - /usr/bin/nodejs app.js
+    - /usr/bin/nodejs node.js
