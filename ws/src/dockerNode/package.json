@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiruthiga-S/Project.git"
+  },
+  "keywords": [
+    "project.json"
+  ],
+  "author": "kiruthiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiruthiga-S/Project/issues"
+  },
+  "dependencies": {
+    "express": "3.2.4"
+  }
+  "homepage": "https://github.com/Kiruthiga-S/Project#readme"
+}
