@@ -5,7 +5,7 @@ RUN apk add --update nodejs
 
 # Install app dependencies
 COPY package.json /src/package.json
-RUN cd /src; sudo apt-get install npm 
+RUN cd /src; npm install 
 
 # Bundle app source
 COPY . /src
